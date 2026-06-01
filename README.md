@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=The+hard+decisions+belong+in+the+code.&font=Fira+Code&size=22&color=21D4C4&background=00000000&center=false&width=600&height=45&pause=4000" alt="The hard decisions belong in the code." />
-
-### Michale McCarthy
+<img src="./banner.svg" alt="Michale McCarthy — Developer & Security Engineer" width="100%" />
 
 I build privacy tools for people who shouldn't have to think about security.
 The hard decisions get made in the code, not handed to the user.
@@ -14,7 +12,7 @@ HexVault — a zero-knowledge IAM platform — plus a few open-source things bel
 
 **HexVault** · Zero-knowledge IAM platform · [hexvault.co.uk](https://hexvault.co.uk)
 
-![Status](https://img.shields.io/badge/status-live-21D4C4?style=flat-square) ![Source](https://img.shields.io/badge/source-closed-3A3A3A?style=flat-square) ![Stack](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Status](https://img.shields.io/badge/status-live-21D4C4?style=flat-square) ![Source](https://img.shields.io/badge/source-closed-3A3A3A?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 A password manager and identity platform where the server can't read anything
 it stores. Web app, Chrome extension, desktop builds for Windows/Linux/macOS,
@@ -48,6 +46,9 @@ Self-hosted, end-to-end encrypted. Voice, video, real-time, PWA.
 A desktop dashboard I open with my coffee.
 
 ---
+
+Mostly Python on the back end, vanilla JS on the front. Self-host most of
+my own infrastructure. Reachable at michalemccarthy@googlemail.com.
 
 Mostly Python on the back end, vanilla JS on the front. Self-host most of
 my own infrastructure. Reachable at michalemccarthy@googlemail.com.
