@@ -49,6 +49,3 @@ A desktop dashboard I open with my coffee.
 
 Mostly Python on the back end, vanilla JS on the front. Self-host most of
 my own infrastructure. Reachable at michalemccarthy@googlemail.com.
-
-Mostly Python on the back end, vanilla JS on the front. Self-host most of
-my own infrastructure. Reachable at michalemccarthy@googlemail.com.
