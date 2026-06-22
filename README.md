@@ -39,6 +39,14 @@ EasyList compiled to declarativeNetRequest.
 
 Self-hosted, end-to-end encrypted. Voice, video, real-time, PWA.
 
+**[dragnet](https://github.com/happygream/dragnet)** · Portable network scanner
+
+![License](https://img.shields.io/badge/license-open%20source-21D4C4?style=flat-square) ![Release](https://img.shields.io/badge/release-v0.3.0-21D4C4?style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+Single portable Windows .exe — host discovery, TCP port scanning, TLS
+inspection, HTTP header scoring, OS fingerprinting, honeypot detection.
+Terminal UI built with Bubble Tea.
+
 **[hexbrief](https://github.com/happygream/hexbrief)** · Morning dashboard
 
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=white)
@@ -47,7 +55,7 @@ A desktop dashboard I open with my coffee.
 
 **[OBSIDIAN](https://github.com/happygream/OBSIDIAN)** · Desktop security scanner for authorised pen testing
 
-![License](https://img.shields.io/badge/license-MIT-21D4C4?style=flat-square) ![Release](https://img.shields.io/badge/release-v0.1.0-21D4C4?style=flat-square) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-21D4C4?style=flat-square) ![Release](https://img.shields.io/badge/release-v0.4.4-21D4C4?style=flat-square) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 Wraps 13 open-source tools — nmap, nuclei, ffuf, sqlmap and more — behind one
 GUI with live terminal output, severity-classified findings, and report export
